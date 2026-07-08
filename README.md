@@ -1,16 +1,14 @@
-## Hi there 👋
+# Dan Lerman
 
-<!--
-**danlerman2025/danlerman2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dan Lerman, an SAT tutor with a PhD in Cognitive Science and degrees from Duke, Georgetown, and Columbia, coaching students toward top scores worldwide.
 
-Here are some ideas to get you started:
+Website: [danlerman.com](https://danlerman.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+
+- [Grandpa Abe](https://danlerman.com/grandpa-abe/)
+- [The Larchmont Comedy Series Is Back](https://danlerman.com/the-larchmont-comedy-series-is-back/)
+- [Dilfs Of Larchmont Ktla](https://danlerman.com/dilfs-of-larchmont-ktla/)
+- [The Next Comedy Phenomenon Has Arrived](https://danlerman.com/the-next-comedy-phenomenon-has-arrived/)
+- [Dilfs Of Larchmont Microcomedy And Shopify Store Announcement](https://danlerman.com/dilfs-of-larchmont-microcomedy-and-shopify-store-announcement/)
+- [Second Child](https://danlerman.com/second-child/)
